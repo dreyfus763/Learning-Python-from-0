@@ -1,0 +1,16 @@
+print("Olá, mundo")
+
+//mostra a mesnagem Olá, mundo
+
+nome = input("Qual é seu nome?")
+idade = input("Qual é a sua idade?")
+print(f"Olá {nome}, você tem {idade} anos")
+
+// da valor a variável nome  de acordo com o que o usuário colocar, o mesmo para a variável idade e em seguida mostra a mesnagem com os valores das variáveis
+
+numero1 = int(input("Digite um número aleatório do seu teclado de 1 a 10"))
+numero2 = int(input("Digite um número aleatório do seu teclado de 1 a 10"))
+print(f"a soma de {numero1} + {numero2} é {numero1 + numero2} e a subtração dos mesmos é {numero1 - numero2}")
+
+// aqui funciona parecido com o código anterior, porém, para números inteiros é necessário colocar "int" antes do "input" para que o print possa receber números ao invés de string
+// o código pede para o usuário escolher dois número de um a dez e em seugida mostra a soma e subtração dos números escolhidos
