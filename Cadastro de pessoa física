@@ -12,15 +12,21 @@ import random
 
 CPF = ''.join(str(random.randint(0, 9)) for _ in range(11))
 print(CPF)
-//cria um valor para a variável cpf com 11 números variando de 0 a 9
+print(f"os dados deste número de CPF são;\nNome: {nome1}\nIdade: {idade1}\nNome da mãe: {nomemae1}\nCidade de nascimento é: {cidadeestado1}")
+//cria um valor para a variável cpf com 11 números variando de 0 a 9 e informa os dados logo abaixo
 
 result = 
 
 Olá, bem vindo a ao cadastro de pessoas físicas
-Para começarmos seu cadastro por favor digite seu nome completo     Rodrigo Merdeiros
-Agora, por favor, digite sua data de nascimento                     17/05/2007
-Digite o nome completo da sua mãe                                   Mãe do Rod da Silva
-Digite a cidade e o estado em que você nasceu                       Sampa-SP
+Para começarmos seu cadastro por favor digite seu nome completoFernando Dequi
+Agora, por favor, digite sua data de nascimento15/08/1997
+Digite o nome completo da sua mãeMãe do Dequi
+Digite a cidade e o estado em que você nasceuChapecó-SC
 Obrigado pelas informações
 O número do seu CPF é
-44938709255
+06743831272
+os dados deste número de CPF são;
+Nome: Fernando Dequi
+Idade: 15/08/1997
+Nome da mãe: Mãe do Dequi
+Cidade de nascimento é: Chapecó-SC
