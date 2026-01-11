@@ -17,10 +17,10 @@ print(CPF)
 result = 
 
 Olá, bem vindo a ao cadastro de pessoas físicas
-Para começarmos seu cadastro por favor digite seu nome completoRodrigo Merdeiros
-Agora, por favor, digite sua data de nascimento17/05/2007
-Digite o nome completo da sua mãeMãe do Rod da Silva
-Digite a cidade e o estado em que você nasceuSampa-SP
+Para começarmos seu cadastro por favor digite seu nome completo     Rodrigo Merdeiros
+Agora, por favor, digite sua data de nascimento                     17/05/2007
+Digite o nome completo da sua mãe                                   Mãe do Rod da Silva
+Digite a cidade e o estado em que você nasceu                       Sampa-SP
 Obrigado pelas informações
 O número do seu CPF é
 44938709255
