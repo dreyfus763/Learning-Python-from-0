@@ -1,0 +1,26 @@
+print("Olá, bem vindo a ao cadastro de pessoas físicas") 
+//manda a mensagem de boas vindas
+nome1 = input("Para começarmos seu cadastro por favor digite seu nome completo")
+idade1 = input("Agora, por favor, digite sua data de nascimento")
+nomemae1 = input("Digite o nome completo da sua mãe")
+cidadeestado1 = input("Digite a cidade e o estado em que você nasceu")
+//cria as variáveis e pede valor a elas
+print("Obrigado pelas informações")
+//mensagem carinhosa
+print("O número do seu CPF é" )
+import random
+
+CPF = ''.join(str(random.randint(0, 9)) for _ in range(11))
+print(CPF)
+//cria um valor para a variável cpf com 11 números variando de 0 a 9
+
+result = 
+
+Olá, bem vindo a ao cadastro de pessoas físicas
+Para começarmos seu cadastro por favor digite seu nome completoRodrigo Merdeiros
+Agora, por favor, digite sua data de nascimento17/05/2007
+Digite o nome completo da sua mãeMãe do Rod da Silva
+Digite a cidade e o estado em que você nasceuSampa-SP
+Obrigado pelas informações
+O número do seu CPF é
+44938709255
